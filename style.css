@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    background-color: #1f2937;
+    flex-direction: column;
+}
+
+.container {
+    display: flex;
+    justify-content: flex-end;
+    flex: auto
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: extra-bold;
+}
+
+h1, h3 {
+    color: #f9faf8;
+}
