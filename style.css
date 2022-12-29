@@ -165,7 +165,7 @@ button {
 
 #two {
     padding-top: 15px;
-    padding-left: 148px;
+    padding-left: 155px;
 }
 
 #three {
@@ -210,4 +210,10 @@ h4 {
     padding-top: 3%;
     padding-bottom: 2%;
     padding-right: 200px;
+    padding-left: 50px;
+}
+
+.img2 {
+    height: 200px;
+    width: 220px;
 }
