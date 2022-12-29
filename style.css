@@ -30,7 +30,7 @@ body {
 
 .hero-main h1, h3, a {
     color: #f9faf8;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-family: Roboto, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
 ul {
@@ -191,7 +191,7 @@ button {
     font-size: 36px;
     font-style: italic;
     color: #1F2937;
-    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-family: Roboto, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 
 .author {
